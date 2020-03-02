@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shivankrao/twitteropinion/issues"
   },
-  "homepage": "https://github.com/shivankrao/twitteropinion#readme"
+  "homepage": "https://github.com/shivankrao/twitteropinion#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
