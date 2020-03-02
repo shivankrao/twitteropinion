@@ -1,0 +1,23 @@
+{
+  "name": "twitteropinion",
+  "version": "1.0.0",
+  "description": "twitter sentiment aggregator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivankrao/twitteropinion.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "shivankrao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivankrao/twitteropinion/issues"
+  },
+  "homepage": "https://github.com/shivankrao/twitteropinion#readme"
+}
