@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/shivankrao/twitteropinion#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
